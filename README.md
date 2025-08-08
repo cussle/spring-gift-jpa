@@ -1,5 +1,15 @@
 # spring-gift-jpa
 
+## 카카오톡 선물하기 바로가기
+- 1주차 - [spring-gift-product](https://github.com/cussle/spring-gift-product)
+- 2주차 - [spring-gift-wishlist](https://github.com/cussle/spring-gift-wishlist)
+- 3주차 - [spring-gift-jpa](https://github.com/cussle/spring-gift-jpa)
+- 4주차 - [spring-gift-enhancement](https://github.com/cussle/spring-gift-enhancement)
+- 5주차 - [spring-gift-order](https://github.com/cussle/spring-gift-order)
+- 6주차 - [spring-gift-point](https://github.com/cussle/spring-gift-point)
+
+---
+
 <details>
 <summary>1단계 요구사항 자세히 보기</summary>
 
